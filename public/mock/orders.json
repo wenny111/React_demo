@@ -1,0 +1,33 @@
+[{
+  "id": 1,
+  "shop": "老重庆",
+  "picture": "",
+  "product": "红油火锅",
+  "price": 120,
+  "ifCommented": true
+},
+{
+  "id": 2,
+  "shop": "老重庆",
+  "picture": "",
+  "product": "钵钵鸡",
+  "price": 120,
+  "ifCommented": false
+},
+{
+  "id": 3,
+  "shop": "茶百道",
+  "picture": "",
+  "product": "芋泥奶茶",
+  "price": 120,
+  "ifCommented": false
+},
+{
+  "id": 4,
+  "shop": "老重庆",
+  "picture": "",
+  "product": "红油火锅",
+  "price": 120,
+  "ifCommented": false
+}
+]
